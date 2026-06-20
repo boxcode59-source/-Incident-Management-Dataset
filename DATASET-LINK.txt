@@ -1,0 +1,9 @@
+Link: https://www.kaggle.com/datasets/winmedals/incident-event-log-dataset
+Link: kaggle.com/datasets/albertobircoci/support-ticket-priority-dataset-50k
+Link: kaggle.com/datasets/venkatasubramanian/automatic-ticket-classification
+Link: kaggle.com/datasets/suraj520/customer-support-ticket-dataset
+Link: huggingface.co → bitext/Bitext-retail-banking-llm-chatbot-training-dataset
+Link: kaggle.com/datasets/mssali/banking-conversation-for-customer-service-nlp
+Link: kaggle.com/datasets/krishd123/log-data-for-anomaly-detection
+Link: kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection
+Link: kaggle.com/datasets/ziya07/anomaly-detection-and-threat-intelligence-dataset
