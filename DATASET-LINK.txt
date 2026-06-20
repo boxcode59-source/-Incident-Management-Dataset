@@ -1,9 +1,26 @@
+1. Incident Management Process Enriched Event Log 
 Link: https://www.kaggle.com/datasets/winmedals/incident-event-log-dataset
+
+2. Support Ticket Priority Dataset
 Link: kaggle.com/datasets/albertobircoci/support-ticket-priority-dataset-50k
+
+3. Automatic Ticket Classification
 Link: kaggle.com/datasets/venkatasubramanian/automatic-ticket-classification
+
+4. Customer Support Ticket Dataset
 Link: kaggle.com/datasets/suraj520/customer-support-ticket-dataset
+
+5. Bitext Retail Banking LLM Chatbot Training Dataset
 Link: huggingface.co → bitext/Bitext-retail-banking-llm-chatbot-training-dataset
+
+6. Banking Conversation for Customer Service
 Link: kaggle.com/datasets/mssali/banking-conversation-for-customer-service-nlp
+
+7. Log Data for Anomaly Detection
 Link: kaggle.com/datasets/krishd123/log-data-for-anomaly-detection
+
+8. Bank Transaction Dataset for Fraud Detection
 Link: kaggle.com/datasets/valakhorasani/bank-transaction-dataset-for-fraud-detection
+
+9. Anomaly Detection and Threat Intelligence Dataset
 Link: kaggle.com/datasets/ziya07/anomaly-detection-and-threat-intelligence-dataset
